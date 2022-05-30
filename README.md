@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom
+- 👋 Hi, I’m Tom. See my scorecards repo.
 
 
 <!---
